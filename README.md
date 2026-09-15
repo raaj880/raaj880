@@ -1,109 +1,87 @@
 # Hi, I'm Basavaraj 👋
 
-### QA / Test Engineer | Manual Testing → Automation QA
+### QA / Test Engineer | GenAI-Assisted Test Engineering | Playwright + Python
 
-I'm a QA / Test Engineer with **5 years of experience** in software testing, with hands-on experience in functional testing, regression testing, mobile app testing, API testing, accessibility testing, and defect management.
+I'm a **QA / Test Engineer with 5 years of experience** in software testing, with hands-on experience across functional testing, regression testing, mobile application testing, API testing, accessibility testing, test case design, and defect management.
 
-Currently, I'm building my automation expertise with **Playwright + Python** and working toward becoming an Automation QA Engineer.
+I'm currently expanding into **automation and GenAI-assisted QA engineering**, using **Playwright with Python** and AI-powered development workflows to improve how I analyze requirements, design test strategies, create test cases, build automation, and investigate test failures.
 
 ---
 
-## 🧪 Testing & Automation
+## 🧪 What I Do
 
-- Manual & Functional Testing
-- Regression Testing
+### Quality Engineering
+
+- Functional & Regression Testing
+- Test Scenario & Test Case Design
+- Risk-Based Testing
+- Exploratory Testing
 - Mobile App Testing — Android & iOS
 - API Testing
 - Accessibility Testing
-- Test Case Design
-- Defect Reporting & Tracking
-- Risk-Based Testing
-- Playwright Automation
+- UI/UX Validation
+- Defect Reporting & Root Cause Analysis
+- Test Planning & Test Strategy
+
+### Test Automation
+
+- Playwright
 - Python
-
----
-
-## 🛠️ Tools & Technologies
-
-| Category | Technologies |
-|---|---|
-| Automation | Playwright, Python |
-| API Testing | Postman |
-| Test Management | TestRail |
-| Defect Tracking | Jira |
-| Version Control | Git, GitHub |
-| CI/CD | GitHub Actions |
-| Database | SQL |
-| Development | HTML, CSS, JavaScript, React |
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Playwright + Python Automation
-A structured UI automation framework built using Playwright and Python.
-
-**Focus areas:**
-- Page Object Model
-- Reusable test components
-- Test fixtures
-- Assertions
-- Test data
-- Screenshots & traces
-- Cross-browser testing
-- HTML reports
-- CI/CD with GitHub Actions
-
-### 🔹 API Testing & Automation
-API testing projects covering:
-
-- GET / POST / PUT / DELETE
-- Status code validation
-- Response validation
-- Negative testing
-- Authentication
-- Test data management
-
-### 🔹 QA Test Engineering Portfolio
-Examples of:
-
-- Test cases
-- Test scenarios
-- Regression suites
-- Bug reports
-- Test strategy
-- Accessibility testing
-- Risk-based testing
-
----
-
-## 📚 Currently Learning
-
-- Playwright with Python
-- Automation Framework Design
+- UI Automation
 - API Automation
-- Python for Test Automation
-- Git & GitHub
+- Page Object Model
+- Reusable Test Components
+- Test Fixtures
+- Data-Driven Testing
+- Cross-Browser Testing
+- Test Reporting
 - CI/CD
-- SQL for Test Engineers
+
+### GenAI-Assisted QA Engineering
+
+I use Generative AI as part of my QA engineering workflow to accelerate repetitive engineering tasks while applying human QA judgment for validation and quality.
+
+Current areas include:
+
+- AI-assisted requirement analysis
+- AI-assisted test planning
+- Test strategy generation
+- Test scenario generation
+- Test case generation
+- Playwright test generation
+- Test data generation
+- Failure analysis
+- Bug analysis
+- QA documentation
+- Automation code review and refinement
 
 ---
 
-## 🎯 Career Goal
+## 🤖 AI Engineering Workflow
 
-I'm currently looking for opportunities as an:
+One of my current areas of focus is building practical **GenAI-assisted QA workflows** using tools such as Claude Code and Claude Skills.
 
-**Automation QA Engineer | QA Automation Engineer | SDET**
+Typical workflow:
 
-My goal is to combine my **5 years of real-world QA experience** with modern automation practices to build reliable, maintainable test suites.
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Basavaraj](https://www.linkedin.com/in/basavaraaj)
-- 🐙 GitHub: [raaj880](https://github.com/raaj880)
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+Requirements / Specifications
+            ↓
+      Requirement Analysis
+            ↓
+       Test Strategy
+            ↓
+       Test Scenarios
+            ↓
+         Test Cases
+            ↓
+   AI-Assisted Automation
+            ↓
+    Playwright + Python
+            ↓
+       Test Execution
+            ↓
+    Failure Investigation
+            ↓
+      Human QA Review
+            ↓
+      Refine & Improve
