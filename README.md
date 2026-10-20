@@ -1,87 +1,77 @@
 # Hi, I'm Basavaraj 👋
 
-### QA / Test Engineer | GenAI-Assisted Test Engineering | Playwright + Python
+### Senior Test Engineer | AI-Powered QA | GenAI-Assisted Quality Engineering
 
-I'm a **QA / Test Engineer with 5 years of experience** in software testing, with hands-on experience across functional testing, regression testing, mobile application testing, API testing, accessibility testing, test case design, and defect management.
+I’m a **Test Engineer with 5 years of experience** across mobile application testing, functional and regression testing, API testing, accessibility validation, test strategy, and defect management. I’m focused on applying **Generative AI and automation to practical QA engineering problems**.
 
-I'm currently expanding into **automation and GenAI-assisted QA engineering**, using **Playwright with Python** and AI-powered development workflows to improve how I analyze requirements, design test strategies, create test cases, build automation, and investigate test failures.
+I combine hands-on QA judgment with tools such as **Claude Code, Atlassian Rovo, Python, Playwright, and MCP-connected workflows** to make test planning, regression analysis, documentation, and test automation more efficient.
 
----
+## What I Do
 
-## 🧪 What I Do
+- **Quality Engineering:** Functional, exploratory, regression, mobile (Android/iOS), API, accessibility, and UI/UX testing
+- **Test Strategy:** Risk-based testing, requirements analysis, scenario design, test case review, and release readiness
+- **AI-Assisted QA:** Test planning, test case generation, defect analysis, QA documentation, and automation assistance
+- **Automation:** Playwright with Python; building and refining test workflows with AI assistance
+- **Collaboration:** Jira, Confluence, TestRail, Figma, Slack, and cross-functional QA knowledge sharing
 
-### Quality Engineering
+## Selected QA Workflow Improvements
 
-- Functional & Regression Testing
-- Test Scenario & Test Case Design
-- Risk-Based Testing
-- Exploratory Testing
-- Mobile App Testing — Android & iOS
-- API Testing
-- Accessibility Testing
-- UI/UX Validation
-- Defect Reporting & Root Cause Analysis
-- Test Planning & Test Strategy
+I’ve designed and refined AI-assisted workflows to support real QA activities, with human review and validation kept in the loop.
 
-### Test Automation
+- **AI-assisted test planning:** Reduced planning effort from approximately **4–5 days to about 1 day** in the workflow where it was applied.
+- **Regression planning:** Built a release-analysis workflow with Claude Code to review changes, map likely test impact, and prioritize regression coverage. Evaluated it across **six releases**.
+- **Regression execution efficiency:** Helped streamline regression planning and execution, with approximately **40% lower effort** reported for the workflow.
+- **Accessibility and localization support:** Reduced effort for applicable review activities from roughly **2–3 days to 4–6 hours** using AI-assisted workflows.
+- **Team enablement:** Share practical AI workflow knowledge and help teammates adopt useful QA approaches.
 
-- Playwright
-- Python
-- UI Automation
-- API Automation
-- Page Object Model
-- Reusable Test Components
-- Test Fixtures
-- Data-Driven Testing
-- Cross-Browser Testing
-- Test Reporting
-- CI/CD
+*Impact figures are approximate and specific to the workflows where they were measured; results can vary by release and scope.*
 
-### GenAI-Assisted QA Engineering
+## Tools & Technologies
 
-I use Generative AI as part of my QA engineering workflow to accelerate repetitive engineering tasks while applying human QA judgment for validation and quality.
+**QA & Collaboration**  
+Jira · Confluence · TestRail · Figma · Slack · Postman
 
-Current areas include:
+**AI & Workflow Engineering**  
+Claude Code · Claude Skills · Atlassian Rovo · MCP integrations · n8n
 
-- AI-assisted requirement analysis
-- AI-assisted test planning
-- Test strategy generation
-- Test scenario generation
-- Test case generation
-- Playwright test generation
-- Test data generation
-- Failure analysis
-- Bug analysis
-- QA documentation
-- Automation code review and refinement
+**Automation & Development**  
+Python · Playwright · Playwright MCP · GitHub
 
----
+## How I Approach AI-Assisted QA
 
-## 🤖 AI Engineering Workflow
-
-One of my current areas of focus is building practical **GenAI-assisted QA workflows** using tools such as Claude Code and Claude Skills.
-
-Typical workflow:
+My goal is not to replace QA judgment with AI. I use AI to accelerate repeatable work, then validate the output against requirements, product behavior, risk, and test evidence.
 
 ```text
-Requirements / Specifications
-            ↓
-      Requirement Analysis
-            ↓
-       Test Strategy
-            ↓
-       Test Scenarios
-            ↓
-         Test Cases
-            ↓
-   AI-Assisted Automation
-            ↓
-    Playwright + Python
-            ↓
-       Test Execution
-            ↓
-    Failure Investigation
-            ↓
-      Human QA Review
-            ↓
-      Refine & Improve
+Requirements / Release Changes
+          ↓
+   AI-Assisted Analysis
+          ↓
+ Test Strategy & Scenarios
+          ↓
+ Prioritized Test Coverage
+          ↓
+ Manual Testing / Automation
+          ↓
+ Evidence & Failure Analysis
+          ↓
+      Human Review
+          ↓
+      Refine Workflow
+```
+
+## Current Focus
+
+- Growing my skills in **AI-powered QA and GenAI-assisted test engineering**
+- Building practical **Playwright + Python** automation workflows
+- Exploring reliable ways to connect AI tools with QA documentation and development workflows
+- Improving test coverage, traceability, and release confidence
+
+## Connect
+
+- **GitHub:** [@raaj880](https://github.com/raaj880)
+- **LinkedIn:** [Basavaraj](https://linkedin.com/in/basavaraaj)
+- **Email:** raaj.nextzen@gmail.com
+
+---
+
+*Always learning, experimenting, and sharing practical ways to improve software quality.*
